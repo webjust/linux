@@ -1,0 +1,8 @@
+/boot	200MB
+swap	1000MB
+/home	2000MB
+/		剩余全部
+
+CentOS-6.3-i386
+
+25分钟左右
