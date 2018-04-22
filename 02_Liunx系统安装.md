@@ -236,6 +236,11 @@ linux管理员： root
 	<tr><td class="center">如果需要关闭虚拟机，选择挂起即可(直接关闭虚拟机等同于关电源，可能导致Linux系统文件破损)</td></tr>
 </table>
 
+<hr />
+查看CentOS等Linux系统的版本号信息：`lsb_release -a`。
+
+打印当前系统相关信息（内核版本号、硬件架构、主机名称和操作系统类型等）：`uname`。
+
 ## 五、文件类型 ##
 <table width="100%">
 	<caption>Linux文件类型</caption>
